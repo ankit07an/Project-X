@@ -1,3 +1,6 @@
 Just a demo site 
-To check clone followed by npm install react scripts
+To check 
+Clone followed by npm install react scripts
+Deployed at https://project-x-six.vercel.app/
+
 
